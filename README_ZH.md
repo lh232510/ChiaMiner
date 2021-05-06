@@ -1,6 +1,5 @@
 # ChiaMiner
-Cancel changes
-Chia 矿池挖矿签名工具
+Chia 矿池挖挖矿工具
 
 有问题或需要技术支持请联系官方客服微信：Qitong_77
 
